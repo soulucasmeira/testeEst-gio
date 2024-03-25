@@ -1,0 +1,1 @@
+// 4- Iria ligar um dos interruptores e esperar um pouco até esquentar a lampada, logo em seguida, iria desligar e ligar um segundo interruptor. Depois iria na sala pra ver, no caso a lampada desligada e quente seria do primeiro interruptor, a lâmpada acesa seria do segundo e a lâmpada apagada, mas fria seria do terceiro.
